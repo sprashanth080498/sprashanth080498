@@ -25,3 +25,7 @@
 ![MindMap](https://img.shields.io/badge/-MindMap-FF6F00?style=flat&logo=mindmap&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+
+
+LinkedIn Profile:
+https://www.linkedin.com/in/s-prashanth-432989180/
